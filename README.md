@@ -3,7 +3,7 @@ A Puppet pre-commit hook
 
 This pre-commit hook is a clone from [Mattias Geniars puppet-pre-commit-hook](https://github.com/mattiasgeniar/puppet-pre-commit-hook) repo. Which in turn was an edited version of the pre-commit hook found on http://techblog.roethof.net/puppet/a-puppet-git-pre-commit-hook-is-always-easy-to-have/.
 
-I have modified this commit hook by adding metadata-json-lint and RSpec testing
+I have modified this commit hook by adding metadata-json-lint and RSpec testing.
 
 Which checks are performed?
 --------------------------
